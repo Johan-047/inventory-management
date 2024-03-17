@@ -1,0 +1,92 @@
+#contraopts{
+	width:100%;
+	margin:0px auto;
+	float:right;
+	
+}
+
+.obox-bottom {
+    display: block;
+    margin: 0px auto;
+    border: #ff7f27 solid 10px;
+    width: 100%;
+    border-radius: 10px;
+}
+.fcol-box1 {
+    float: left;
+    padding: 8px 5px;
+    text-align: center;
+    color: #fff;
+    background: #42586f;
+    margin: 0px 1px;
+}
+
+
+ 
+.obox-row {
+    width: 100%;
+    display: block;
+}
+.obox-row p {
+    margin: 0 0 0px;
+}
+.fcol-box1{
+  float:left;
+  padding:5px 1px;
+  text-align:center;
+  color:#fff;
+  background:#33383ed6;
+  width:8%;
+  margin:0px 0.5px;
+}
+.frow-box1{
+  float:left;
+  text-align:center;
+  color:#666;
+  width:8%;
+  padding:2px 2px;
+  margin:0px 0.5px;
+}
+.fcol-box2, .frow-box2{
+  width:8%;
+}
+.fcol-box3, .frow-box3{
+  width:20%;
+}
+.fcol-box4, .frow-box4{
+  width:20%;
+}
+.fcol-box5, .frow-box5{
+  width:10%;
+}
+.fcol-box6, .frow-box6{
+  width:6%;
+}
+.fcol-box7, .frow-box7{
+  width:35%;
+}
+
+h2 a {
+    float: right;
+    padding: 2px 5px;
+    border-radius: 5px;
+    border: #a7a9ac solid 1px;
+    margin: 0px 5px;
+    background: #0c9cce;
+    text-align: left;
+    color: #fff;
+    line-height: 25px;
+}
+.finput1 {
+    display: block;
+    padding: 2px 1px;
+    width: 100%;
+    border: #ccc solid 1px;
+    background: #fff;
+    margin: 1px 1px;
+    height: 33px;
+	color:black;
+}
+input, select, textarea {
+    color:#666;
+}
